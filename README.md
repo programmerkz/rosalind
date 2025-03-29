@@ -8,3 +8,7 @@ Solution <https://github.com/programmerkz/rosalind/blob/main/iprb.py>
 ### Translating RNA into Protein
 Problem <https://rosalind.info/problems/prot/>  
 Solution <https://github.com/programmerkz/rosalind/blob/main/prot.py>  
+
+### Finding a Motif in DNA
+Problem <https://rosalind.info/problems/subs/>  
+Solution <https://github.com/programmerkz/rosalind/blob/main/subs.py>  
