@@ -12,3 +12,8 @@ Solution <https://github.com/programmerkz/rosalind/blob/main/prot.py>
 ### Finding a Motif in DNA
 Problem <https://rosalind.info/problems/subs/>  
 Solution <https://github.com/programmerkz/rosalind/blob/main/subs.py>  
+
+### Calculating Expected Offspring
+Problem <https://rosalind.info/problems/iev/>  
+Solution <https://github.com/programmerkz/rosalind/blob/main/iev.py>  
+ 
