@@ -16,4 +16,11 @@ Solution <https://github.com/programmerkz/rosalind/blob/main/subs.py>
 ### Calculating Expected Offspring
 Problem <https://rosalind.info/problems/iev/>  
 Solution <https://github.com/programmerkz/rosalind/blob/main/iev.py>  
- 
+
+### Consensus and Profile
+Problem <https://rosalind.info/problems/cons/>  
+Solution <https://github.com/programmerkz/rosalind/blob/main/cons.py>  
+
+### Calculating Protein Mass
+Problem <https://rosalind.info/problems/prtm/>  
+Solution <https://github.com/programmerkz/rosalind/blob/main/prtm.py>  
