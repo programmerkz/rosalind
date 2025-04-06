@@ -24,3 +24,8 @@ Solution <https://github.com/programmerkz/rosalind/blob/main/cons.py>
 ### Calculating Protein Mass
 Problem <https://rosalind.info/problems/prtm/>  
 Solution <https://github.com/programmerkz/rosalind/blob/main/prtm.py>  
+
+### Introduction to Random Strings (Modeling Random Genomes)
+Problem <https://rosalind.info/problems/prob/>  
+Solution <https://github.com/programmerkz/rosalind/blob/main/prob.py>  
+
