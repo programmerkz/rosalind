@@ -8,12 +8,10 @@ with open('data/rosalind_prob.txt') as f:
     dna = f.readline().strip()
     gc_content = list(map(float, f.readline().strip().split()))
 
-ans = [1.0] * len(gc_content)
-for bp in dna:
-    for i in range(len(ans)):
-        if bp == 'G' or bp == 'C':
-            ans[i] *= gc_content[i] / 2
-        else:
-            ans[i] *= (1 - gc_content[i]) / 2
+GC = sum(bp in 'GC' for bp in dna)
+AD = len(dna) - GC
 
-print(*(round(log10(a), 5) for a in ans))
+dna_prob = lambda prob: log10((prob / 2) ** GC * ((1 - prob) / 2) ** AD)
+
+ans = [round(dna_prob(prob), 5) for prob in gc_content]
+print(*ans)
